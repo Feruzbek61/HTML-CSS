@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+
+
+
+   htlmda css chaqirish
+  <link rel="stylesheet" href="css/style.css">
+
+
+matn harfidagi o'lchamni belgilash
+      <style>
+                  
+            p{
+
+                  font-size: 50px;
+
+            }
+
+
+
+
+      </style>
+
+
+
+
+
+
+
+</head>
+<body>
+      
+<h1 style="color: red;">salom</h1>
+
+<p class="text" id="text">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos, quam soluta cum non dignissimos pariatur quas exercitationem ducimus repellendus magnam dolor nostrum molestiae praesentium maiores ratione quis enim nesciunt eum!</p>
+
+
+<p class="text" id="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi pariatur consect etur, facere a labore corrupti perferendis quod magnam voluptatem exercitationem eveniet consequuntur facilis soluta ullam? Obcaecati consequuntur aspernatur illum expedita.</p>
+
+
+<h2 class="text" id="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum aperiam magni eligendi reiciendis eius odio quo voluptatum nulla omnis molestias ipsa id, sunt exercitationem? Explicabo impedit voluptatum molestiae voluptas expedita?</h2>
+
+<h5 class="text" id="text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum velit recusandae <span>exercitationem</span>  sapiente ut, corporis, enim corrupti quo labore accusamus esse ducimus. Rerum tempore expedita facere nobis sequi dolor.</h5>
+
+
+</body>
+</html>
