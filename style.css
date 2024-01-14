@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    width: 100%;
+    height: 800px;
+}
+.head{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.head .lang{
+    width: 20%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lang img{
+    width: 300px;
+    height: 100px;
+    background-size: cover;
+}
+.head .lang select{
+    width: 200px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: white;
+    margin-left: 20px;
+}
+.head .registr{
+    width: 40%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.head .registr button{
+    width: 160px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: aliceblue;
+}
+.head .registr select{
+    width: 100px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: white;
+}
+.registr img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.main{
+    width: 100%;
+    height: auto;
+}
+.main1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.main1 h1{
+    font-size: 60px;
+    justify-content: center;
+    margin-top: 90px;
+}
+.main2 img{
+  width: 400px;
+  height: 460px;
+  border-radius: 50%;
+  background-color: rgb(57, 255, 255);
+}
+.main1 form{
+    width: 800px;
+    position: absolute;
+    margin-top: 330px;
+    margin-right: 500px;
+    border: 7px solid green;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.main1 input{
+    width: 300px;
+    height: 60px;
+    border: none;
+}
+.main1 p{
+    color: rgb(145, 143, 143);
+    font-size: 36px;
+    margin-top: 240px;
+    margin-right: 400px;
+    position: absolute;
+}
+.main1 button{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 300px;
+    border: none;
+    font-size: 24px;
+    color: white;
+    background-color: green;
+    border-radius: 20px;
+}
